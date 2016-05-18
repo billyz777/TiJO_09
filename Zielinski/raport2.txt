@@ -1,0 +1,59 @@
+/app/app.js:9:51 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:88 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:63 Replaced  ||  with && -> SURVIVED
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+/app/app.js:17:30 Replaced  <  with <= -> SURVIVED
+/app/app.js:17:33 Replaced 0 with 1 -> SURVIVED
+/app/app.js:21:21 Removed return {area: 0, message: 'Big null'}; -> SURVIVED
+/app/app.js:21:29 Removed area: 0,  -> SURVIVED
+/app/app.js:21:38 Removed message: 'Big null' -> SURVIVED
+/app/app.js:21:35 Replaced 0 with 1 -> SURVIVED
+/app/app.js:21:47 Replaced 'Big null' with "MUTATION!" -> SURVIVED
+37 of 50 unignored mutations are tested (74%). 3 mutations were ignored.
+/app/app.js:9:51 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:88 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:63 Replaced  ||  with && -> SURVIVED
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+/app/app.js:17:30 Replaced  <  with <= -> SURVIVED
+/app/app.js:17:33 Replaced 0 with 1 -> SURVIVED
+/app/app.js:21:21 Removed return {area: 0, message: 'Big null'}; -> SURVIVED
+/app/app.js:21:29 Removed area: 0,  -> SURVIVED
+/app/app.js:21:38 Removed message: 'Big null' -> SURVIVED
+/app/app.js:21:35 Replaced 0 with 1 -> SURVIVED
+/app/app.js:21:47 Replaced 'Big null' with "MUTATION!" -> SURVIVED
+37 of 50 unignored mutations are tested (74%). 3 mutations were ignored.
+/app/app.js:9:51 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:88 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:63 Replaced  ||  with && -> SURVIVED
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+45 of 50 unignored mutations are tested (90%). 3 mutations were ignored.
+/app/app.js:9:51 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:88 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:63 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:38 Replaced  ||  with && -> SURVIVED
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+44 of 50 unignored mutations are tested (88%). 3 mutations were ignored.
+/app/app.js:9:51 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:88 Replaced  ||  with && -> SURVIVED
+/app/app.js:8:63 Replaced  ||  with && -> SURVIVED
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+45 of 50 unignored mutations are tested (90%). 3 mutations were ignored.
+/app/app.js:9:51 Replaced  ||  with && -> SURVIVED
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+47 of 50 unignored mutations are tested (94%). 3 mutations were ignored.
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+48 of 50 unignored mutations are tested (96%). 3 mutations were ignored.
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+/app/app.js:14:28 Replaced 0 with 1 -> SURVIVED
+48 of 50 unignored mutations are tested (96%). 3 mutations were ignored.
+/app/app.js:13:25 Replaced  >  with >= -> SURVIVED
+49 of 50 unignored mutations are tested (98%). 3 mutations were ignored.
